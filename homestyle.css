@@ -1,0 +1,11 @@
+h1{color: red;}
+.brands{
+	display: flex;
+	flex-wrap: wrap;
+}
+.brands > div {
+	margin: 20px;
+	padding:20px;
+	width: 200px;
+
+}
